@@ -1,4 +1,4 @@
 python3-dev
 gcc
 unixodbc-dev
-msodbcsql17
+-y msodbcsql17
